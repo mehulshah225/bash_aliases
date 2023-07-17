@@ -1,3 +1,3 @@
 # bash_aliases
 
-# contains all the aliasesused by the user
+# contains all the aliases used by the user
